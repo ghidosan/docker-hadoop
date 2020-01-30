@@ -18,7 +18,7 @@ To deploy an example HDFS cluster, run:
 
 # note
 docker-compose.yml misses port mapping for all services, but namenode. Manually added RM 8080
-See docker-compose.yml
+See GitHub Issue https://github.com/big-data-europe/docker-hadoop/issues/27
 
 
 
